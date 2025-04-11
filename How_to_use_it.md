@@ -4,7 +4,7 @@ In terminal, Pls use "npm run dev" in client file to start the html page
 
 In new terminal, Pls use "npm start" in server to start to connect the mongodb database and backend coding.
 
-Please login with username:admin, password:admin123, and role:admin for full access
+Please login with username:"admin", password:"admin123", and role:admin for full access
 
 The feature of code:
 
