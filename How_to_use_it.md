@@ -1,4 +1,4 @@
-Please ensure you have download proper version of node.js to run the application
+Please ensure you have download proper version of node.js to run the application /br
 In terminal, Pls use "npm run dev" in client file to start the html page
 In new terminal, Pls use "npm start" in server to start to connect the mongodb database and backend coding.
 The feature of code:
